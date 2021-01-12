@@ -22,7 +22,9 @@ If you want the newest and freshest version, you can install it by executing:
 
 ```
 pip install git+https://github.com/lucasb-eyer/pydensecrf.git
+pip install git+https://github.com/Mhaiyang/pydensecrf.git
 ```
+
 
 and ignoring all the warnings coming from Eigen.
 
